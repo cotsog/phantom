@@ -2,7 +2,7 @@
 
 language: scala
 
-sudo: false
+sudo: required
 
 services:
   - cassandra
